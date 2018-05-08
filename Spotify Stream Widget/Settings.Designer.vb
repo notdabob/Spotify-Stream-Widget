@@ -148,7 +148,7 @@ Partial Class Settings
         '
         Me.CreditPanel.Controls.Add(Me.Button1)
         Me.CreditPanel.Controls.Add(Me.CreditsText)
-        Me.CreditPanel.Location = New System.Drawing.Point(13, 63)
+        Me.CreditPanel.Location = New System.Drawing.Point(257, 424)
         Me.CreditPanel.Name = "CreditPanel"
         Me.CreditPanel.Size = New System.Drawing.Size(272, 304)
         Me.CreditPanel.TabIndex = 9
